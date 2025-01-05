@@ -1,0 +1,5 @@
+execute_process(COMMAND "/home/ilef/Euro_ws/build/robot_state_machine_behaviors/robot_state_machine_flexbe_states/catkin_generated/python_distutils_install.sh" RESULT_VARIABLE res)
+
+if(NOT res EQUAL 0)
+  message(FATAL_ERROR "execute_process(/home/ilef/Euro_ws/build/robot_state_machine_behaviors/robot_state_machine_flexbe_states/catkin_generated/python_distutils_install.sh) returned error code ")
+endif()

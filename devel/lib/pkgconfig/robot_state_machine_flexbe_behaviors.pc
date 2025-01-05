@@ -1,0 +1,8 @@
+prefix=/home/ilef/Euro_ws/devel
+
+Name: robot_state_machine_flexbe_behaviors
+Description: Description of robot_state_machine_flexbe_behaviors
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib -lrobot_state_machine_flexbe_behaviors
+Requires: 

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+
+<launch>
+
+    <include file="$(find ydlidar_ros_driver)/launch/lidar.xml"/>
+
+    <node pkg="rosserial_python" type="serial_node.py" name="serial_node">
+        <param name="ROSSERIALSOLTA" value="/dev/MAESTROSOLTA"/>
+        <param name="baud" value="115200"/>
+    </node>
+    <node pkg="Eurobot" type="lora_node.py" name="lora_node.py"
+    <node pkg="Eurobot" type="strategy_node.py" name="strategy_node.py"
+
+    <node pkg="Eurobot" type="HafnaouiSMach.py" name="HafnaouiSMach.py" />
+
+
+
+</launch>

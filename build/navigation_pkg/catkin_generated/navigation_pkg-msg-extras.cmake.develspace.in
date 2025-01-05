@@ -1,0 +1,2 @@
+set(navigation_pkg_MESSAGE_FILES "/home/ilef/Euro_ws/src/navigation_pkg/msg/EmergencyStop.msg;/home/ilef/Euro_ws/src/navigation_pkg/msg/LidarCoord.msg;/home/ilef/Euro_ws/src/navigation_pkg/msg/RobotCoord.msg;/home/ilef/Euro_ws/src/navigation_pkg/msg/State.msg")
+set(navigation_pkg_SERVICE_FILES "")

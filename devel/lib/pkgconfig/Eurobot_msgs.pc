@@ -1,0 +1,8 @@
+prefix=/home/ilef/Euro_ws/devel
+
+Name: Eurobot_msgs
+Description: Description of Eurobot_msgs
+Version: 0.0.0
+Cflags: -I/home/ilef/Euro_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: 

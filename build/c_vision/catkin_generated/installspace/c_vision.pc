@@ -1,0 +1,8 @@
+prefix=/home/ilef/Euro_ws/install
+
+Name: c_vision
+Description: Description of c_vision
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

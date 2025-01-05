@@ -1,0 +1,8 @@
+prefix=/home/ilef/Euro_ws/install
+
+Name: omifadhila_pkg
+Description: Description of omifadhila_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

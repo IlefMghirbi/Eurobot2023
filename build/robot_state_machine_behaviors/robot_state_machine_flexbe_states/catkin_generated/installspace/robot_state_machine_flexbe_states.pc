@@ -1,0 +1,8 @@
+prefix=/home/ilef/Euro_ws/install
+
+Name: robot_state_machine_flexbe_states
+Description: Description of robot_state_machine_flexbe_states
+Version: 1.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lrobot_state_machine_flexbe_states
+Requires: 

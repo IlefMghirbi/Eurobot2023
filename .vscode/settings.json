@@ -1,0 +1,15 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "python.autoComplete.extraPaths": [
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "files.associations": {
+        "string": "cpp",
+        "sstream": "cpp",
+        "cstdlib": "cpp"
+    },
+    "cmake.sourceDirectory": "${workspaceFolder}/src/master"
+}

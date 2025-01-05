@@ -1,0 +1,8 @@
+prefix=/home/ilef/Euro_ws/src/master/build/devel
+
+Name: master
+Description: Description of master
+Version: 0.0.0
+Cflags: -I/home/ilef/Euro_ws/src/master/build/devel/include
+Libs: -L${prefix}/lib 
+Requires: 
