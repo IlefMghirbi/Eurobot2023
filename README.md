@@ -14,7 +14,7 @@ It is with great pride and pleasure that I share my experience as a team member 
 - Developed a modular FSM using **ROS** and the **SMACH package** by Jonathan Bohren.
 - Achieved seamless synchronization of various robot modules, including navigation, path planning, and obstacle detection.
 ## Architecture
-![Robot Architecture](path/to/architecture-image.png)  
+![Robot Architecture](architecture.png)  
 *The image showcases the architecture of the robot system I developed, highlighting the interaction between modules.*
 
 ### 3. Key Achievements
