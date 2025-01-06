@@ -1,7 +1,7 @@
 # Eurobot 2023 Robotics Competition 
 
 ## Overview
-It is with great pride and pleasure that I share my experience as a team member in the **Eurobot 2023** competition. This journey was special both on a technical and personal level, beginning with forming a talented team from the **IEEE INSAT Robotics and Automation Society Chapter**. Starting from scratch, we collaborated to design, develop, and deploy a competitive robot.
+As a member of the Eurobot 2023 competition team, I contributed to the design, development, and deployment of an autonomous robot tailored to meet the competition's challenges. Representing the IEEE INSAT Robotics and Automation Society Chapter, we built the system from the ground up, focusing on robust hardware integration, efficient software development, and collaborative teamwork. This project encompassed areas such as sensor integration, path planning, state machine design, and system validation, resulting in a competitive robot capable of meeting real-time operational demands.
 
 ## My Contributions
 
