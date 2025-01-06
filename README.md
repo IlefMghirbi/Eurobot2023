@@ -1,4 +1,4 @@
-# Eurobot 2023 Robotics Project
+# Eurobot 2023 Robotics Competition 
 
 ## Overview
 It is with great pride and pleasure that I share my experience as a team member in the **Eurobot 2023** competition. This journey was special both on a technical and personal level, beginning with forming a talented team from the **IEEE INSAT Robotics and Automation Society Chapter**. Starting from scratch, we collaborated to design, develop, and deploy a competitive robot.
@@ -28,5 +28,7 @@ It is with great pride and pleasure that I share my experience as a team member 
 - Gained valuable insights by engaging with teams from around the world.
 - Proudly received the **Mediation Prize** awarded by **Planète Sciences** for our innovative efforts.
 
+Here is a video demonstration showcasing the robot's performance during a match (the robot starting at the far left) 
+[![Video Demo]](Eurobot2023.mp4)
 
 
